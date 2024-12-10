@@ -14,6 +14,7 @@ Joe currently has the following seven Adapter implementations:
 - <i class='fas fa-hashtag fa-fw'></i> IRC Adapter: https://github.com/akrennmair/joe-irc-adapter
 - <i class="fas fa-circle-notch"></i> Mattermost Adapter: https://github.com/dwmunster/joe-mattermost-adapter
 - <i class='fab fa-vk'></i> VK Adapter: https://github.com/tdakkota/joe-vk-adapter 
+- <i class='fab fa-comments'></i> Lark Adapter: https://github.com/saltbo/joe-lark-adapter 
 
 If you want to integrate with a chat service that is not listed above, you can
 write your own Adapter implementation.
